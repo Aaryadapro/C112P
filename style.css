@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#result{
+  border-style: ridge;
+  border-width:4px;
+  border-color:black;
+  height:300px;
+  width:300px;
+  margin:135px;
+}
+
+#gesture{
+  font-size:32px;
+}
+
+#camera{
+  
+  margin:135px;
+}
